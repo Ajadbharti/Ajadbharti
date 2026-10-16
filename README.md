@@ -1,166 +1,209 @@
 # 👋 Hi, I'm Ajad Bharti
 
-### 🚀 Full-Stack Developer | MERN | Next.js | Java | DSA
+### 🚀 Full-Stack Developer | MERN Stack | Next.js | Java | DSA
 
-I’m a passionate Full-Stack Developer focused on building modern, scalable,
-and user-friendly web applications.
+I'm a passionate Full-Stack Developer focused on building modern, scalable, and user-friendly web applications.
 
-I enjoy turning ideas into real-world products while continuously improving
-my problem-solving, backend development, and system design skills.
+I enjoy turning ideas into real-world products while continuously improving my problem-solving, backend development, and system design skills.
+
+<p align="center">
+  <a href="https://github.com/Ajadbharti">
+    <img src="https://img.shields.io/badge/GitHub-Ajadbharti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_Development-blue?style=for-the-badge" alt="Full Stack Development"/>
+  <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" alt="Java"/>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎵 Currently building **AjjuMusic** — a full-stack music streaming platform
+- 🎵 Currently developing **AjjuMusic** — a full-stack music streaming platform
 - 🍔 Built a **Full-Stack Food Delivery Platform**
-- 💻 Working with **MERN Stack, Next.js, Java & REST APIs**
-- 🧠 Practicing **Data Structures & Algorithms with Java**
-- ⚙️ Learning **Backend Development & System Design**
-- 🚀 Interested in building **production-ready applications**
-- 🌱 Continuously improving my **problem-solving & software engineering skills**
-- 🎯 Goal: Become a **strong Software Engineer**
+- 💻 Working with **MERN Stack, Next.js, Java and REST APIs**
+- 🧠 Practicing **Data Structures and Algorithms using Java**
+- ⚙️ Learning **Backend Architecture and System Design**
+- 🚀 Interested in building production-ready applications
+- 🌱 Continuously improving my problem-solving and software engineering skills
+- 🎯 Goal: Become a strong Software Engineer
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
-- ☕ Java
-- 🟨 JavaScript
-- 🟦 HTML
-- 🎨 CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming Languages"/>
+</p>
 
-### ⚛️ Frontend
+### ⚛️ Frontend Development
 
-- ⚛️ React.js
-- ▲ Next.js
-- 🎨 Tailwind CSS
-- 🌐 Responsive Web Design
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" alt="Frontend Technologies"/>
+</p>
 
-### ⚙️ Backend
+- Responsive Web Design
+- React Hooks and Context API
+- Routing and State Management
+- Modern UI Development
 
-- 🟢 Node.js
-- 🚂 Express.js
-- 🔗 REST APIs
-- 🔐 Authentication & Authorization
+### ⚙️ Backend Development
 
-### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+</p>
 
-- 🍃 MongoDB
-- 🐬 MySQL
+- RESTful API Development
+- Authentication and Authorization
+- JWT and Middleware
+- Server-side Application Development
 
-### 🧰 Tools & Technologies
+### 🗄️ Databases
 
-- 🐙 Git & GitHub
-- 💻 VS Code
-- 📮 Postman
-- 📦 npm
-- 🐳 Docker
-- ☁️ Deployment & Cloud Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+</p>
+
+### 🧰 Tools and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,docker" alt="Developer Tools"/>
+</p>
+
+- API Testing with Postman
+- Deployment and Cloud Fundamentals
+- Version Control with Git and GitHub
 
 ### 🧠 Computer Science
 
-- 📚 Data Structures & Algorithms
-- 🏗️ Object-Oriented Programming
-- ⚙️ Backend Architecture
-- 🧩 Problem Solving
-- 🏛️ System Design
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Database Management Systems
+- Backend Architecture
+- System Design Fundamentals
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## 🎵 AjjuMusic
+### 🎵 AjjuMusic — Music Streaming Platform
 
-> Full-stack music streaming platform designed for modern users.
+A full-stack music streaming platform designed to deliver a modern music listening experience.
 
-### ✨ Planned Features
+**Planned and developing features:**
 
-- 🎵 Music Streaming
-- 🔍 Music Search
-- 🎧 Playlists
-- ❤️ Favorites
-- 📝 Lyrics
-- 📥 Downloads
+- 🎵 Music Streaming and Search
+- 🎧 Playlists and Favorites
+- 📝 Lyrics and Downloads
 - 👤 User Authentication
-- 💳 Subscription Plans
-- 💰 Payment Integration
+- 💳 Subscription Plans and Payments
 - 📢 Advertisement System
 - 🤖 Music Recommendations
 - 🌍 Multi-language Support
-- 📱 Mobile Application
-- 🛠️ Admin Dashboard
-- 📊 Analytics
+- 🛠️ Admin Dashboard and Analytics
 - 🔐 Role-based Access Control
 
-### 🛠️ Technology
+**Technology Stack:**
 
 `Next.js` `React.js` `Node.js` `Express.js` `MongoDB` `JavaScript`
 
----
+### 🍔 Full-Stack Food Delivery Platform
 
-## 🍔 Full-Stack Food Delivery Platform
+A full-stack food delivery application built to understand real-world application architecture and backend development.
 
-A full-stack food delivery application built to understand
-real-world application architecture.
-
-### ✨ Features
+**Features:**
 
 - 👤 User Authentication
-- 🍔 Restaurant & Food Management
+- 🍔 Restaurant and Food Management
 - 🛒 Shopping Cart
 - 📦 Order Management
 - 💳 Payment Integration
 - 📍 Delivery Management
 - 🛠️ Admin Dashboard
-- 🔐 Secure APIs
+- 🔐 Secure REST APIs
 
-### 🛠️ Technology
+**Technology Stack:**
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JavaScript`
 
----
+### 🧠 DSA with Java
 
-## 🧠 DSA with Java
+A collection of Data Structures and Algorithms problems solved using Java to strengthen problem-solving skills and prepare for technical interviews.
 
-A collection of Data Structures & Algorithms problems solved using Java.
+**Topics:**
 
-### 📚 Topics
-
-- Arrays
-- Strings
-- Searching
-- Sorting
+- Arrays and Strings
+- Searching and Sorting
 - Hashing
-- Recursion
+- Recursion and Backtracking
 - Linked Lists
-- Stack
-- Queue
-- Trees
-- Binary Search Trees
-- Graphs
+- Stacks and Queues
+- Trees and Binary Search Trees
+- Graph Algorithms
 - Dynamic Programming
 - Bit Manipulation
+- Binary Search and Greedy Algorithms
 
-### 💻 Language
-
-`Java`
+**Language:** `Java`
 
 ---
 
-# 🌱 Currently Learning
+## 📊 GitHub Statistics
 
-```text
-Advanced Next.js
-        ↓
-Backend Architecture
-        ↓
-System Design
-        ↓
-Data Structures & Algorithms
-        ↓
-Scalable API Development
-        ↓
-Production-Ready Applications
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ajadbharti&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajadbharti&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ajadbharti&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+</p>
+
+---
+
+## 🐍 Snake Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ajadbharti/Ajadbharti/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Next.js
+- Backend Architecture
+- System Design
+- Data Structures and Algorithms
+- Scalable API Development
+- Production-Ready Applications
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] Strengthen DSA with Java
+- [ ] Improve backend development skills
+- [ ] Build and deploy full-stack projects
+- [ ] Learn advanced Next.js and system design
+- [ ] Contribute to open-source projects
+- [ ] Maintain consistent GitHub contributions
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Ajadbharti">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
+  💡 <b>Building, Learning, and Improving Every Day.</b>
+</p>
